@@ -13,5 +13,6 @@
 </head>
 <body>
     <h1>August release movies are Coolie, War-2, Salaar-2 </h1>
+<h2> There were another big movies. Those are: Ojaas Gambheera, The Rajasaab, Peedi</h2>
 </body>
 </html>
